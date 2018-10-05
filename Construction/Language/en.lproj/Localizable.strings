@@ -1,0 +1,116 @@
+/* 
+  Localizable.strings
+  HGCircularSlider
+
+  Created by Appzorro on 14/02/18.
+  Copyright © 2018 CocoaPods. All rights reserved.
+*/
+"Welcome" = "Welcome";
+"Welcome" = "Welcome";
+"app_name" = "Waite";
+"email" = "Email";
+"password" = "Password";
+"text_login_header" = "Welcome";
+"forgot_password" = "Forgot Password?";
+"sign_up" = "New User?";
+"dont_account" = "Sign Up";
+"login" = "Login";
+"Login_welcome" = "Customer Login";
+"fp_send" = "Send";
+"fp_forgot" = "Forgot password";
+"r_email" = "Email";
+"r_password" = "Password";
+"r_confirm_password" = "Confirm Password";
+"r_first_name" = "Name";
+"r_last_name" = "Last Name";
+"r_phone" = "Mobile";
+"r_location" = "Location";
+"register" = "Sign Up";
+"r_register" = "REGISTER";
+"d_dashboard" = "Dashboard";
+"d_pick_new_order" = "New Order";
+"d_order_tracking" = "Order Tracking";
+"d_order_history" = "Order History";
+"d_payment" = "Payment";
+"d_feedback" = "Feedback";
+"d_logout" = "Logout";
+"d_cod" = "Cash on delivery";
+"new_order" = "New order";
+"tank_size" = "Tank size";
+"price" = "Price";
+"enter_no" = "Mobile number";
+"purpose_of_water" = "Purpose of water";
+"date_to_deliver" = "Date";
+"time_to_deliver" = "Time";
+"location" = "Location";
+"type_of_building" = "Type of Building";
+"contact_number" = "Contact number";
+"order" = "Order";
+"ot_order_tracking" = "Order tracking";
+"ot_order_id" = "Order Id";
+"ot_date" = "Date";
+"ot_size" = "Size";
+"ot_amount" = "Amount";
+"ot_status" = "Status";
+"ot_driver_name" = "Driver name: ";
+"ot_driver_mobile" = "Driver mobile: ";
+"ot_time" = "Time: ";
+"ohd_order_details" = "Order Details";
+"ohd_orderId" = "Order Id";
+"ohd_tank_size" = "Tank size";
+"ohd_prize" = "Price";
+"ohd_pow" = "Purpose of water";
+"ohd_date" = "Date";
+"ohd_time_of_delivery" = "Time of delivery";
+"ohd_location" = "Location";
+"ohd_type_of_building" = "Type of building";
+"ohd_contact_number" = "Contact number";
+"ohd_status" = "Status";
+"orderHistory" = "Order History";
+"orderId" = "Order Id";
+"date" = "Date";
+"size" = "Size";
+"amount" = "Amount";
+"status" = "Status";
+"deriver_name" = "Driver name";
+"fd_order_feedback" = "Order Feedback";
+"fd_order_id" = "Order Id";
+"fd_date" = "Date";
+"fd_size" = "Size";
+"fd_driver_name" = "Driver name";
+"feedback" = "Feedback";
+"f_orderId" = "Order Id";
+"f_date" = "Date";
+"driver_name" = "Driver Name";
+"water_quality" = "Water Quality";
+"time_of_delivery" = "Time of delivery";
+"driver_behaviour" = "Driver behaviour";
+"application_easy_of_use" = "Easy of usage";
+"comments" = "Comment";
+"f_send" = "Send";
+"are_you_sure" = "Are you sure you want to logout?";
+"l_yes" = "Yes";
+"l_no" = "No";
+"dialog_7" = "Profile location";
+"dialog_8" = "Continue";
+"dialog_1" = "Submit";
+"dialog_2" = "Search location here...";
+"dialog_3" = "Location on map";
+"r_truck_no" ="Tanker number";
+"r_truck_size" = "Tanker size";
+"d_pick_new_order"= "Pick New Order";
+"d_order_tracking" = "Order Tracking";
+"d_order_history" = "Order History";
+"welcome" = "Driver Login";
+"fd_customer_name" = "Customer Name";
+"p_address" = "Address";
+"customer_behaviour" = "Customer behaviour";
+"saftey_at_feeding" = "Customer location";
+"d_pick_new_order" = "Pick New Order";
+"poor" = "Poor";
+"average" = "Average";
+"good" = "Good";
+"excellent" = "Excellent";
+//<item>Order complete</item>
+//<item>Delivered</item>
+//<item>Cancelled</item>
